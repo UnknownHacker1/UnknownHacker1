@@ -8,8 +8,6 @@ I like hard algorithmic problems and shipping fixes to the open-source tools peo
 
 ## 🌍 Open Source
 
-Real fixes in tools I actually use:
-
 | # | Project | What I fixed | PR | Status |
 | :-: | --- | --- | :-: | --- |
 | 1 | **emscripten** ⭐27k | Added the `desynchronized` WebGL context attribute | [#27163](https://github.com/emscripten-core/emscripten/pull/27163) | ✅ Merged |

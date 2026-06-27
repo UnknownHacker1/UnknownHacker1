@@ -1,6 +1,6 @@
 # Hi, I'm Abdelrahman 👋
 
-**CS @ University of Southern Mississippi** · **ICPC South USA Regional Champion** 🏆
+**CS @ USM** · **ICPC South USA D2 Regional Champion** 🏆
 
 I like hard algorithmic problems and shipping fixes to the open-source tools people actually use. Strongest in **C++, Python, and Rust**.
 

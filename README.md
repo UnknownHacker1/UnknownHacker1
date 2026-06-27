@@ -36,17 +36,6 @@ Algorithms & data structures · compiler / tooling internals · systems & HPC
 
 ---
 
-## 📊 Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UnknownHacker1&show_icons=true&hide_border=true&theme=github_dark&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownHacker1&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-</p>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=UnknownHacker1&hide_border=true&theme=github-dark-blue" />
-
----
-
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Teima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-teima-2a22b92b8/)

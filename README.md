@@ -1,6 +1,6 @@
 # Hi, I'm Abdelrahman 👋
 
-**CS @ USM** · **ICPC South USA D2 Regional Champion** 🏆
+**CS @ University of Southern Mississippi** · **ICPC South USA Regional Champion** 🏆
 
 I like hard algorithmic problems and shipping fixes to the open-source tools people actually use. Strongest in **C++, Python, and Rust**.
 
@@ -8,11 +8,14 @@ I like hard algorithmic problems and shipping fixes to the open-source tools peo
 
 ## 🌍 Open Source
 
+Real fixes in tools I actually use:
+
 | # | Project | What I fixed | PR | Status |
 | :-: | --- | --- | :-: | --- |
 | 1 | **emscripten** ⭐27k | Added the `desynchronized` WebGL context attribute | [#27163](https://github.com/emscripten-core/emscripten/pull/27163) | ✅ Merged |
 | 2 | **vyper** ⭐5k | Codegen fix: raise instead of silently returning in `safe_pow()` | [#5134](https://github.com/vyperlang/vyper/pull/5134) | ✅ Merged |
-| 3 | **rust-lang/rust-analyzer** ⭐16k | Guarded an index panic in flycheck handling | [#22634](https://github.com/rust-lang/rust-analyzer/pull/22634) | 🟢 Approved, about to merge |
+| 3 | **rust-lang/rust-analyzer** ⭐16k | Guarded an index panic in flycheck handling | [#22634](https://github.com/rust-lang/rust-analyzer/pull/22634) | ✅ Merged |
+| 4 | **deno** ⭐100k+ | Fixed a broken-pipe panic in `deno lint --rules` | [#35479](https://github.com/denoland/deno/pull/35479) | 🔄 In progress |
 
 Full Phase I-IV writeups → **[contributions](https://github.com/UnknownHacker1/contributions)**
 

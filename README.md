@@ -32,6 +32,7 @@ Algorithms & data structures · compiler / tooling internals · systems & HPC
 
 - **[competitive-programming](https://github.com/UnknownHacker1/competitive-programming)** — my solved-problem archive across online judges (Codeforces, DMOJ, and more to come), every solution the real submission with its solve date.
 - **[Found.it](https://github.com/UnknownHacker1/Found.it)** — privacy-first, on-device semantic file search (FastAPI + React + local LLM + vector embeddings).
+- **[pdf-darkmode](https://github.com/UnknownHacker1/pdf-darkmode)** — converts any PDF into a true dark-mode file locally (Python). Inverts lightness while preserving hue, so colored text stays readable and photos aren't turned into negatives.
 
 ---
 

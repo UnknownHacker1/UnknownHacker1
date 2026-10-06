@@ -14,7 +14,7 @@ Real fixes and tests in tools I actually use:
 | :-: | --- | --- | :-: | --- |
 | 1 | **NVIDIA/cccl** ⭐2.5k | Fixed Thrust's CPU `stable_sort` reordering `-0.0` and `+0.0` ([#750](https://github.com/NVIDIA/cccl/issues/750)) | [#11897](https://github.com/NVIDIA/cccl/pull/11897) | 🔄 In review |
 | 2 | **NVIDIA/cccl** ⭐2.5k | GPU `stable_sort` test for NVIDIA's nvc++ compiler | [#11882](https://github.com/NVIDIA/cccl/pull/11882) | ✅ Merged |
-| 3 | **NVIDIA/cccl** ⭐2.5k | GPU `sort` test for NVIDIA's nvc++ compiler | [#11881](https://github.com/NVIDIA/cccl/pull/11881) | 🟢 Approved |
+| 3 | **NVIDIA/cccl** ⭐2.5k | GPU `sort` test for NVIDIA's nvc++ compiler | [#11881](https://github.com/NVIDIA/cccl/pull/11881) | ✅ Merged |
 | 4 | **emscripten** ⭐27k | Added the `desynchronized` WebGL context attribute | [#27163](https://github.com/emscripten-core/emscripten/pull/27163) | ✅ Merged |
 | 5 | **vyper** ⭐5k | Codegen fix: raise instead of silently returning in `safe_pow()` | [#5134](https://github.com/vyperlang/vyper/pull/5134) | ✅ Merged |
 | 6 | **rust-lang/rust-analyzer** ⭐16k | Guarded an index panic in flycheck handling | [#22634](https://github.com/rust-lang/rust-analyzer/pull/22634) | ✅ Merged |

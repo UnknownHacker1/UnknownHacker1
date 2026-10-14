@@ -12,12 +12,13 @@ Real fixes and tests in tools I actually use:
 
 | # | Project | What I did | PR | Status |
 | :-: | --- | --- | :-: | --- |
-| 1 | **NVIDIA/cccl** ⭐2.5k | Fixed Thrust's CPU `stable_sort` reordering `-0.0` and `+0.0` ([#750](https://github.com/NVIDIA/cccl/issues/750)) | [#11897](https://github.com/NVIDIA/cccl/pull/11897) | 🔄 In review |
-| 2 | **NVIDIA/cccl** ⭐2.5k | GPU `stable_sort` test for NVIDIA's nvc++ compiler | [#11882](https://github.com/NVIDIA/cccl/pull/11882) | ✅ Merged |
-| 3 | **NVIDIA/cccl** ⭐2.5k | GPU `sort` test for NVIDIA's nvc++ compiler | [#11881](https://github.com/NVIDIA/cccl/pull/11881) | ✅ Merged |
-| 4 | **emscripten** ⭐27k | Added the `desynchronized` WebGL context attribute | [#27163](https://github.com/emscripten-core/emscripten/pull/27163) | ✅ Merged |
-| 5 | **vyper** ⭐5k | Codegen fix: raise instead of silently returning in `safe_pow()` | [#5134](https://github.com/vyperlang/vyper/pull/5134) | ✅ Merged |
-| 6 | **rust-lang/rust-analyzer** ⭐16k | Guarded an index panic in flycheck handling | [#22634](https://github.com/rust-lang/rust-analyzer/pull/22634) | ✅ Merged |
+| 1 | **morluto/rea** ⭐236k | Fixed a blind spot where Electron apps bundled with webpack showed 0 windows and 0 IPC ([#2932](https://github.com/morluto/rea/issues/2932)) | [#2948](https://github.com/morluto/rea/pull/2948) | ✅ Landed in [v6.5.0](https://github.com/morluto/rea/commit/04672f2b9) |
+| 2 | **NVIDIA/cccl** ⭐2.5k | Fixed Thrust's CPU `stable_sort` reordering `-0.0` and `+0.0` ([#750](https://github.com/NVIDIA/cccl/issues/750)) | [#11897](https://github.com/NVIDIA/cccl/pull/11897) | 🔄 In review |
+| 3 | **NVIDIA/cccl** ⭐2.5k | GPU `stable_sort` test for NVIDIA's nvc++ compiler | [#11882](https://github.com/NVIDIA/cccl/pull/11882) | ✅ Merged |
+| 4 | **NVIDIA/cccl** ⭐2.5k | GPU `sort` test for NVIDIA's nvc++ compiler | [#11881](https://github.com/NVIDIA/cccl/pull/11881) | ✅ Merged |
+| 5 | **emscripten** ⭐27k | Added the `desynchronized` WebGL context attribute | [#27163](https://github.com/emscripten-core/emscripten/pull/27163) | ✅ Merged |
+| 6 | **vyper** ⭐5k | Codegen fix: raise instead of silently returning in `safe_pow()` | [#5134](https://github.com/vyperlang/vyper/pull/5134) | ✅ Merged |
+| 7 | **rust-lang/rust-analyzer** ⭐16k | Guarded an index panic in flycheck handling | [#22634](https://github.com/rust-lang/rust-analyzer/pull/22634) | ✅ Merged |
 
 Full Phase I-IV writeups → **[contributions](https://github.com/UnknownHacker1/contributions)**
 
